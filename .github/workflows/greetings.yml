@@ -13,4 +13,4 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: "Thanks for filing an issue! We appreciate your contribution to the growth of this resource."
-        pr-message: "Thanks for your pull request! 🎉  We appreciate your contribution to the growth of this resource."
+        pr-message: "Thanks for your pull request! 🎉  We appreciate your contribution to the growth of this resource. Please ensure your contribution has a README with links to other resources."
